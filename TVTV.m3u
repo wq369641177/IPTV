@@ -175,6 +175,22 @@ http://[2409:8087:5011:1020::15]/180000001002/00000001000000000008000000047430/m
 http://[2409:8087:5011:1020::1c]/180000001001/00000001000000001001000000000029/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/cs4.png" group-title="地方",长沙新综
 http://[2409:8087:5011:1020::1a]/180000001002/00000001000000000008000000047429/main.m3u8
+#EXTINF:-1 tvg-id="6001" tvg-name="遼寧都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV2.png" group-title="遼寧",遼寧都市
+http://fengyeos.f3322.org:8002/udp/239.33.2.236:22360
+#EXTINF:-1 tvg-id="6006" tvg-name="遼寧北方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV8.png" group-title="遼寧",遼寧北方
+http://fengyeos.f3322.org:8002/udp/239.33.3.202:24580
+#EXTINF:-1 tvg-id="6004" tvg-name="遼寧生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV6.png" group-title="遼寧",遼寧生活
+http://fengyeos.f3322.org:8002/udp/239.33.3.201:24570
+#EXTINF:-1 tvg-id="6008" tvg-name="遼寧經濟" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-FINANCE.png" group-title="遼寧",遼寧經濟
+http://fengyeos.f3322.org:8002/udp/239.33.2.121:21210
+#EXTINF:-1 tvg-id="6003" tvg-name="遼寧青少" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV5.png" group-title="遼寧",遼寧青少
+http://fengyeos.f3322.org:8002/udp/239.33.2.233:22330
+#EXTINF:-1 tvg-id="6005" tvg-name="遼寧公共" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV7.png" group-title="遼寧",遼寧公共
+http://fengyeos.f3322.org:8002/udp/239.33.2.122:21220
+#EXTINF:-1 tvg-id="6002" tvg-name="遼寧影視劇" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV3.png" group-title="遼寧",遼寧影視劇
+http://fengyeos.f3322.org:8002/udp/239.33.2.238:22380
+#EXTINF:-1 tvg-id="6007" tvg-name="遼寧體育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-SPORT.png" group-title="遼寧",遼寧體育
+http://218.25.44.2:8899/hls/53/index.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="数字",纯享超清
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="数字",CCTV-4K
