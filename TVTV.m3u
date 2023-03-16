@@ -717,3 +717,5 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/32212285
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视4K",炫影4K
 http://xstartx.com:4000/rtp/239.93.42.33:5140
+#EXTINF:-1 tvg-id="27" tvg-name="湖南衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="衛視",湖南衛視 
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000064000000308827/index.m3u8
