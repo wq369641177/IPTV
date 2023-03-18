@@ -720,30 +720,29 @@ http://xstartx.com:4000/rtp/239.93.42.33:5140
 #EXTINF:-1 tvg-id="27" tvg-name="湖南衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="衛視",湖南衛視 
 http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000064000000308827/index.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="32" tvg-name="安徽衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="衛視",安徽衛視 12M1080
+#EXTINF:-1 tvg-id="32" tvg-name="安徽衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="高碼衛視",安徽衛視 12M1080
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="30" tvg-name="北京衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="衛視",北京衛視 Max16M1080
+#EXTINF:-1 tvg-id="30" tvg-name="北京衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="高碼衛視",北京衛視 Max16M1080
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="33" tvg-name="廣東衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="衛視",廣東衛視 Max16M1080
+#EXTINF:-1 tvg-id="33" tvg-name="廣東衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="高碼衛視",廣東衛視 Max16M1080
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="46" tvg-name="黑龍江衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="衛視",黑龍江衛視 Max16M1080
+#EXTINF:-1 tvg-id="46" tvg-name="黑龍江衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="高碼衛視",黑龍江衛視 Max16M1080
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="48" tvg-name="湖北衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="衛視",湖北衛視 12M1080
+#EXTINF:-1 tvg-id="48" tvg-name="湖北衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="高碼衛視",湖北衛視 12M1080
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="27" tvg-name="湖南衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央視",湖南衛視 Max16M1080
+#EXTINF:-1 tvg-id="27" tvg-name="湖南衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="高碼央視",湖南衛視 Max16M1080
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="29" tvg-name="江蘇衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="衛視",江蘇衛視 Max16M1080
+#EXTINF:-1 tvg-id="29" tvg-name="江蘇衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="高碼衛視",江蘇衛視 Max16M1080
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="36" tvg-name="遼寧衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="衛視",遼寧衛視 Max16M1080
+#EXTINF:-1 tvg-id="36" tvg-name="遼寧衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="高碼衛視",遼寧衛視 Max16M1080
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="38" tvg-name="山東衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="衛視",山東衛視 Max16M1080
+#EXTINF:-1 tvg-id="38" tvg-name="山東衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="高碼衛視",山東衛視 Max16M1080
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="34" tvg-name="深圳衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="衛視",深圳衛視 12M1080
+#EXTINF:-1 tvg-id="34" tvg-name="深圳衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="高碼衛視",深圳衛視 12M1080
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="39" tvg-name="天津衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="衛視",天津衛視 12M1080
+#EXTINF:-1 tvg-id="39" tvg-name="天津衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="高碼衛視",天津衛視 12M1080
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="28" tvg-name="浙江衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="衛視",浙江衛視 Max16M1080
+#EXTINF:-1 tvg-id="28" tvg-name="浙江衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="高碼衛視",浙江衛視 Max16M1080
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="31" tvg-name="東方衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="衛視",衛視東方衛視 Max16M1080
+#EXTINF:-1 tvg-id="31" tvg-name="東方衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="高碼衛視",衛視東方衛視 Max16M1080
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
